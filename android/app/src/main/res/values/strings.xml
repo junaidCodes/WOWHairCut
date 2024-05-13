@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">1565970294197462</string>
+    <string name="fb_login_protocol_scheme">fb1565970294197462</string>
+    <string name="facebook_client_token">3df973ccb562db5d4fab97e59b4196a0</string>
+    <string name="app_name">"wow haircut"</string>
+
+</resources>

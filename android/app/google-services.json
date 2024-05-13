@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "996974133837",
+    "project_id": "haircut-d6819",
+    "storage_bucket": "haircut-d6819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996974133837:android:ed9d21104e9f1d399dd204",
+        "android_client_info": {
+          "package_name": "com.example.wowcut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996974133837-vs6c7kqhu3jqiu7hj72f3792i0thks08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wowcut",
+            "certificate_hash": "603d2ef382fd353cb9991fdb7b0cd56401619c5f"
+          }
+        },
+        {
+          "client_id": "996974133837-uk57h8pbv2la8jfbegapvj69q9ponvvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtFLFUcPLAw3uUKzUkVWHD2Ei0ocj8hDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996974133837-uk57h8pbv2la8jfbegapvj69q9ponvvb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "996974133837-1tjpgsoqk2gb7mm1kjkokpf57o4bujnm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wowcut.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
